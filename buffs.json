@@ -1,0 +1,1 @@
+{\n  "buffs": {\n    "GreenRoaches": {\n      "maxStack": 100,\n      "divideBy": [10, 2, 15, 30, 50]  \n    },\n    "EnragedGreenRoaches": {\n      "maxStack": 150,\n      "divideBy": [100, 30, 20, 20]  \n    }\n  }\n}
