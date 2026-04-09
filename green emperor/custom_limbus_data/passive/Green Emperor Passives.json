@@ -1,0 +1,61 @@
+{
+  "list": [
+    {
+      "id": 21235010,
+      "attributeResonanceCondition": [],
+      "requireIDList": [
+        "Modular/TIMING:RoundStart/healsp(Self,60)"
+      ]
+    },
+    {
+      "id": 21235020,
+      "attributeResonanceCondition": [],
+      "requireIDList": [
+        "Modular/TIMING:EnemyKill/buff(Self,GreenRoaches,1000,0,0)",
+        "Modular/TIMING:RoundStart/VALUE_1:random(75,250)/buff(Self,GreenRoaches,VALUE_1,0,0)",
+        "Modular/TIMING:RoundStart/VALUE_0:getbuff(Self,GreenRoaches,mVALUE_0*50000000)/shield(Self,VALUE_0,temp)"
+      ]
+    },
+    {
+      "id": 21235030,
+      "attributeResonanceCondition": [],
+      "requireIDList": [
+        "Modular/TIMING:setimmortal(1)",
+        "Modular/TIMING:RoundStart/VALUE_2:random(1,50)",
+        "Modular/TIMING:OnImmortal/buff(Self,PlusCoinValueDown,VALUE_0,0,0)",
+        "Modular/TIMING:healhp(Self,50%)"
+      ]
+    },
+    {
+      "id": 21235040,
+      "attributeResonanceCondition": [],
+      "requireIDList": [
+        "Modular/TIMING:DefeatDuel/skillsend(Self,Target,21235021,def)"
+      ]
+    },
+    {
+      "id": 21235050,
+      "attributeResonanceCondition": [],
+      "requireIDList": [
+        "Modular/TIMING:WinDuel/buff(Target,EnragedGreenRoaches,20,0,0)",
+        "Modular/TIMING:OnSucceedAttack(None,NoCrit)/buff(EveryTarget,EnragedGreenRoaches,5,0,0)",
+        "Modular/TIMING:OnSucceedAttack(None,Crit)/buff(EveryTarget,EnragedGreenRoaches,10,0,0)"
+      ]
+    },
+    {
+      "id": 21235060,
+      "attributeResonanceCondition": [],
+      "requireIDList": [
+        "Modular/TIMING:RoundStart/VALUE_3:getbuff(Self,EnragedGreenRoaches,VALUE_3)/buff(Self,GreenRoaches,VALUE_3,0,0)",
+        "Modular/TIMING:RoundStart/buff(Self,EnragedGreenRoaches,-mVALUE_3%2)"
+      ]
+    },
+    {
+      "id": 21235070,
+      "attributeResonanceCondition": [],
+      "requireIDList": [
+        "Modular/TIMING:RoundStart/VALUE_4:getbuff(Self,SukunaPlotArmor,VALUE_4)/healhp(Self,VALUE_4%)"
+      ]
+    }
+  ]
+}

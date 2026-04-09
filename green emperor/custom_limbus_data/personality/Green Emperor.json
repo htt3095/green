@@ -1,0 +1,183 @@
+{
+  "list": [
+    {
+      "id": 212350,
+      "appearance": "!custom_1339_Gregor_EmperorAppearance",
+      "specialDuelRank": 10,
+      "unitKeywordList": [
+        "GREEN",
+        "MINOR_DEITY",
+        "KING_OF_ALL_COCKROACHES",
+        "EMPEROR_OF_PESTS",
+        "ROYAL",
+        "NONE_BLOOD",
+        "EXT_FX_A",
+        "LARGE",
+        "DEFENSECYCLE_21235021_21235022_21235023"
+      ],
+      "associationList": [],
+      "skillKeywordList": [
+        ""
+      ],
+      "characterId": 12,
+      "lowMorale": -46,
+      "panic": -46,
+      "panicType": 9997,
+      "defenseSkillIDList": [
+        21235021,
+        21235022,
+        21235023
+      ],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 53800000000,
+        "incrementByLevel": 2781000000
+      },
+      "defCorrection": 290,
+      "minSpeedList": [
+        85,
+        85,
+        85,
+        85
+      ],
+      "maxSpeedList": [
+        115,
+        115,
+        115,
+        115
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp30"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly10"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp20"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.25
+          },
+          {
+            "type": "HIT",
+            "value": 0.75
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 0.75
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 0.75
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 2123501,
+          "number": 3
+        },
+        {
+          "skillId": 2123502,
+          "number": 2
+        },
+        {
+          "skillId": 2123503,
+          "number": 2
+        },
+        {
+          "skillId": 2123504,
+          "number": 2
+        },
+        {
+          "skillId": 2123505,
+          "number": 2
+        },
+        {
+          "skillId": 2123506,
+          "number": 1
+        },
+        {
+          "skillId": 2123507,
+          "number": 1
+        },
+        {
+          "skillId": 2123508,
+          "number": 1
+        },
+        {
+          "skillId": 2123509,
+          "number": 1
+        }
+      ]
+    }
+  ]
+}

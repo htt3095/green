@@ -1,0 +1,51 @@
+{
+  "21235010": {
+    "id": "21235010",
+    "name": "Deity's Blessing",
+    "desc": "Turn Start: Heal 60 SP",
+    "summary": "",
+    "flavor": ""
+  },
+  "21235020": {
+    "id": "21235020",
+    "name": "The Emperor's Mantle",
+    "desc": "Turn Start: Gain [DefenseBug] but green stack of Shield\n On Kill: Gain 1000 [DefenseBug] but green\n Turn Start: Gain 75 ~ 250 [DefenseBug] but green",
+    "summary": "",
+    "flavor": "The Legion of (Green) Roaches moves for no one but its Emperor."
+  },
+  "21235030": {
+    "id": "21235030",
+    "name": "Deity's Revival",
+    "desc": "(One Time) If Green Emperor's health is below 0 regain 50% health and gain 1 ~ 50 [PlusCoinValueDown]",
+    "summary": "",
+    "flavor": "The Emperor will not fall."
+  },
+  "21235040": {
+    "id": "21235040",
+    "name": "Emperor's Guard",
+    "desc": "[DefeatDuel] Use a guard skill",
+    "summary": "",
+    "flavor": "The Emperor's guard will not falter"
+  },
+  "21235050": {
+    "id": "21235050",
+    "name": "Emperor's Legion",
+    "desc": "[WinDuel] Inflict 20 [OffenseBug] but green\n[OnSucceedAttack] with a skill inflict 5 [OffenseBug] but green\n[CriticalOnSucceedAttack] with a skill inflict 10 [OffenseBug] but green",
+    "summary": "",
+    "flavor": "Rip, seep, trickle, carve, tear, devour."
+  },
+  "21235060": {
+    "id": "21235060",
+    "name": "Roach's Feast",
+    "desc": "Lose 50% more [OffenseBug] but green and gain 1 [DefenseBug] but green for every stack",
+    "summary": "",
+    "flavor": "Intrude, infest, devour."
+  },
+  "21235070": {
+    "id": "21235070",
+    "name": "Binding Vow",
+    "desc": "Heal 1% max health for every 1 stack of Binding Vows on The Green Emperor",
+    "summary": "",
+    "flavor": "Why did I add this passive?"
+  }
+}
