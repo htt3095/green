@@ -1,34 +1,34 @@
 {
-    "GreenRoaches": {
-        "a": 0,
-        "id": "GreenRoaches",
-        "name": "Green Roaches (Enchancing)",
-        "desc": "Enchances the emperor with buffs [Gain 1 Binding Vow for every 2000 Green Roaches] (Max 10000)",
-        "summary": "",
-        "flavor": "Loyal to the Green Emperor"
-    },
-    "EnragedGreenRoaches": {
-        "a": 0,
-        "id": "EnragedGreenRoaches",
-        "name": "Green Roaches (Enraged)",
-        "desc": "For every stack gain 1 Burn/Bleed/Bind for every tenth stack and 1 Clash Power Down for every twentieth stack and 1 Plus Coin Drop for every fiftieth stack (Max 1000)",
-        "summary": "",
-        "flavor": "These Roaches are starved and hungry for food."
-    },
-    "SukunaPlotArmor": {
-        "a": 0,
-        "id": "SukunaPlotArmor",
-        "name": "Binding Vow (Green Emperor)",
-        "desc": "Gain 1 restriction and Damage Up and 2 Near-light Superbattery for every Binding Vow (Max 20)",
-        "summary": "",
-        "flavor": "why did I add this?"
-    },
-    "Restriction": {
-        "a": 0,
-        "id": "Restriction",
-        "name": "Restriction",
-        "desc": "Gain 1 Defense Level Down for every Restriction, gain 1 fragile for every ten Restrictions (Max 100)",
-        "summary": "",
-        "flavor": "I don't watch JJK"
-    }
+  "GreenRoaches": {
+    "a": 0,
+    "id": "GreenRoaches",
+    "name": "Green Roaches (Enhancing)",
+    "desc": "Enhances the Emperor with buffs. Gain 1 Binding Vow for every 50 Green Roaches (Max 120).",
+    "summary": "",
+    "flavor": "Loyal to the Green Emperor"
+  },
+  "EnragedGreenRoaches": {
+    "a": 0,
+    "id": "EnragedGreenRoaches",
+    "name": "Green Roaches (Enraged)",
+    "desc": "Gain 1 Burn/Bleed/Bind every 12~15 stacks, 1 Clash Power Down every 20 stacks, and 1 Plus Coin Drop every 30 stacks (Max 120)",
+    "summary": "",
+    "flavor": "These Roaches are starved and hungry for food."
+  },
+  "SukunaPlotArmor": {
+    "a": 0,
+    "id": "SukunaPlotArmor",
+    "name": "Binding Vow (Green Emperor)",
+    "desc": "Gain 1 Restriction and 1 Damage Up every 2 Binding Vows; gain 1 Near-light Superbattery every 3 Binding Vows (Max 6)",
+    "summary": "",
+    "flavor": "why did I add this?"
+  },
+  "Restriction": {
+    "a": 0,
+    "id": "Restriction",
+    "name": "Restriction",
+    "desc": "Gain 1 Defense Level Down for every 2 Restriction; gain 1 Fragile for every 6 Restriction (Max 30)",
+    "summary": "",
+    "flavor": "I don't watch JJK"
+  }
 }

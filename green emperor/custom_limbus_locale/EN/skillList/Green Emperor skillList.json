@@ -4,7 +4,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage\nDeal +20% Damage for every negative effect on enemy\nDeal +10% Damage for every [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\nDeal +5% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
         "name": "The Emperor's Fist",
         "flavor": "",
         "rawDesc": "",
@@ -13,7 +13,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin] Inflict 5 Count and 5 Potency chosen from [Combustion], [Laceration], [Vibration], [Burst] and [Sinking]\nInflict 2 [OffenseBug] but green",
+                "desc": "[ExtractCoin] Inflict 2 Count and 2 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 1 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -21,7 +21,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin] Inflict 5 Count and 5 Potency chosen from [Combustion], [Laceration], [Vibration], [Burst] and [Sinking]\nInflict 2 [OffenseBug] but green",
+                "desc": "[ExtractCoin] Inflict 2 Count and 2 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 1 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -35,7 +35,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage\nDeal +20% Damage for every negative effect on enemy\nDeal +10% Damage for every [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\nDeal +4% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
         "name": " The Emperor's Whip & Fist",
         "flavor": "",
         "rawDesc": "",
@@ -44,7 +44,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 8 Count and 8 Potency chosen from [Combustion], [Laceration], [Vibration], [Burst] and [Sinking]\nInflict 4 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -52,7 +52,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 8 Count and 8 Potency chosen from [Combustion], [Laceration], [Vibration], [Burst] and [Sinking]\nInflict 4 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -60,7 +60,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 8 Count and 8 Potency chosen from [Combustion], [Laceration], [Vibration], [Burst] and [Sinking]\n[OnSucceedAttack] Gain 1 Binding Vow\nInflict 4 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\n[OnSucceedAttack] Gain 1 Binding Vow\nInflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -74,7 +74,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage\n[WhenUse] Base Power +100000 for every [SuperCoin] on the Skill this unit clashed with",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
         "name": "The Emperor's Devouring",
         "flavor": "",
         "rawDesc": "",
@@ -97,7 +97,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage\nDeal +20% Damage for every negative effect on enemy\nDeal +10% Damage for every [OffenseBug] but green on enemy\n[WhenUse] Gain +25 [Charge]\n[DefeatDuel] Deal -50% damage and damage dealt by this skill cannot stagger target",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\nDeal +4% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy\n[WhenUse] Gain +6 [Charge]\n[DefeatDuel] Deal -50% damage and damage dealt by this skill cannot stagger target",
         "name": "The Emperor's Flogging",
         "flavor": "",
         "rawDesc": "",
@@ -106,7 +106,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 8 Count and 8 Potency chosen from [Combustion], [Laceration], [Vibration], [Burst] and [Sinking]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]",
                 "summary": ""
               }
             ]
@@ -114,7 +114,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Consume all [Charge] Count on self and deal + ([Charge] Count consumed x 20)% damage",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Consume all [Charge] Count on self and deal +([Charge] Count consumed x 2)% damage",
                 "summary": ""
               }
             ]
@@ -128,7 +128,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage\nDeal +10% Damage for every [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
         "name": "March of Roaches",
         "flavor": "Roach's Feast",
         "rawDesc": "",
@@ -137,7 +137,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 5 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -145,7 +145,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 5 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -153,7 +153,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 5 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -161,7 +161,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 5 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -175,7 +175,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)",
         "name": "The Emperor's Quaking",
         "flavor": "Oh my god how much tremor is that.",
         "rawDesc": "",
@@ -184,7 +184,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 99 Count and Potency of every kind of [Vibration]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 4 Count and 4 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -192,7 +192,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 99 Count and Potency of every kind of [Vibration]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 4 Count and 4 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -200,7 +200,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 99 Count and Potency of every kind of [Vibration]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 4 Count and 4 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -208,7 +208,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Trigger [VibrationExplosion]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Trigger [Tremor Burst]",
                 "summary": ""
               }
             ]
@@ -222,7 +222,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage\n[WhenUse] Base Power +1000000 for every [SuperCoin] on the Skill this unit clashed with",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
         "name": "The Emperor's Excision",
         "flavor": "",
         "rawDesc": "",
@@ -231,7 +231,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 20 Count and 20 Potency chosen from [Combustion], [Laceration], [Vibration], [Burst] and [Sinking]\n[UnBrokenCoinOnSucceedAttack] Inflict 30 [AttackDown]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 4 Count and 4 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [AttackDown]",
                 "summary": ""
               }
             ]
@@ -239,7 +239,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 20 Count and 20 Potency chosen from [Combustion], [Laceration], [Vibration], [Burst] and [Sinking]\n[UnBrokenCoinOnSucceedAttack] Inflict 30 [AttackDown]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 4 Count and 4 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [AttackDown]",
                 "summary": ""
               }
             ]
@@ -253,7 +253,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage\n[WhenUse] Base Power +1000000 for every [SuperCoin] on the Skill this unit clashed with",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
         "name": "The Emperor's Feast",
         "flavor": "",
         "rawDesc": "",
@@ -262,7 +262,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[UnBrokenCoinOnSucceedAttack] Remove Target's Shield\n[UnBrokenCoinOnSucceedAttack] Inflict 20 [Paralysis]",
+                "desc": "[ExtractCoin]\n[UnBrokenCoinOnSucceedAttack] Remove Target's Shield\n[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]",
                 "summary": ""
               }
             ]
@@ -270,7 +270,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[UnBrokenCoinOnSucceedAttack] Inflict 25 [PlusCoinValueDown]",
+                "desc": "[ExtractCoin]\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [PlusCoinValueDown]",
                 "summary": ""
               }
             ]
@@ -284,7 +284,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage\n[WhenUse] Gain 20 [Breath] Potency and 4 [Breath] Count",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\n[WhenUse] Gain 6 [Poise] Potency and 2 [Poise] Count",
         "name": "Don't forget to go for the heart.",
         "flavor": "",
         "rawDesc": "",
@@ -293,7 +293,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 25% of target's max hp",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 5% of target's max hp",
                 "summary": ""
               }
             ]
@@ -301,7 +301,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 25% of target's max hp",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 5% of target's max hp",
                 "summary": ""
               }
             ]
@@ -309,7 +309,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 25% of target's max hp",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 5% of target's max hp",
                 "summary": ""
               }
             ]
@@ -317,7 +317,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 25% of target's max hp",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 5% of target's max hp",
                 "summary": ""
               }
             ]
@@ -377,7 +377,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "[WhenUse] At 0+ SP generate 200 Mangs (望)\n-Deal 8000% more damage",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)",
         "name": "Binding Vow",
         "flavor": "JJK Reference???",
         "rawDesc": "",
