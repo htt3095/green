@@ -4,7 +4,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\nDeal +5% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +5% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
         "name": "The Emperor's Fist",
         "flavor": "",
         "rawDesc": "",
@@ -35,7 +35,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\nDeal +4% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +4% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
         "name": " The Emperor's Whip & Fist",
         "flavor": "",
         "rawDesc": "",
@@ -74,7 +74,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
         "name": "The Emperor's Devouring",
         "flavor": "",
         "rawDesc": "",
@@ -97,7 +97,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\nDeal +4% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy\n[WhenUse] Gain +6 [Charge]\n[DefeatDuel] Deal -50% damage and damage dealt by this skill cannot stagger target",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +4% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy\n[WhenUse] Gain +6 [Charge]\n[DefeatDuel] Deal -50% damage and damage dealt by this skill cannot stagger target",
         "name": "The Emperor's Flogging",
         "flavor": "",
         "rawDesc": "",
@@ -128,7 +128,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
         "name": "March of Roaches",
         "flavor": "Roach's Feast",
         "rawDesc": "",
@@ -175,7 +175,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)",
         "name": "The Emperor's Quaking",
         "flavor": "Oh my god how much tremor is that.",
         "rawDesc": "",
@@ -222,7 +222,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
         "name": "The Emperor's Excision",
         "flavor": "",
         "rawDesc": "",
@@ -253,7 +253,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\n[WhenUse] Base Power +2 for every [SuperCoin] on the Skill this unit clashed with",
         "name": "The Emperor's Feast",
         "flavor": "",
         "rawDesc": "",
@@ -284,7 +284,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)\n[WhenUse] Gain 6 [Poise] Potency and 2 [Poise] Count",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\n[WhenUse] Gain 6 [Poise] Potency and 2 [Poise] Count",
         "name": "Don't forget to go for the heart.",
         "flavor": "",
         "rawDesc": "",
@@ -377,7 +377,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mangs (望)",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)",
         "name": "Binding Vow",
         "flavor": "JJK Reference???",
         "rawDesc": "",
