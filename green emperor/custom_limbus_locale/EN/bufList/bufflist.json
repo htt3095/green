@@ -3,7 +3,7 @@
     "a": 0,
     "id": "GreenRoaches",
     "name": "Green Roaches (Enhancing)",
-    "desc": "Enhances the Emperor with buffs. Gain 1 Binding Vow for every 50 Green Roaches (Max 120).",
+    "desc": "Each Round Start, grant the Emperor buffs based on stack count:\n1 Poise Potency (1 turn) per 10 stacks; 1 Coin Power Up per 30 stacks; 1 Haste per 25 stacks; 1 Protection per 40 stacks; 1 Defense Level Up per 30 stacks; 1 Attack Level Up per 30 stacks; 1 Binding Vow per 60 stacks. (Max 120)",
     "summary": "",
     "flavor": "Loyal to the Green Emperor"
   },
@@ -11,7 +11,7 @@
     "a": 0,
     "id": "EnragedGreenRoaches",
     "name": "Green Roaches (Enraged)",
-    "desc": "Gain 1 Burn/Bleed/Bind every 12~15 stacks, 1 Clash Power Down every 20 stacks, and 1 Plus Coin Drop every 30 stacks (Max 120)",
+    "desc": "Each Round Start, afflict the bearer:\n1 Burn (1 turn) per 12 stacks; 1 Bleed (1 turn) per 12 stacks; 1 Bind per 15 stacks; 1 Clash Power Down per 20 stacks; 1 Plus Coin Power Down per 30 stacks.\nLose 40% of stacks at Round End. (Max 120)",
     "summary": "",
     "flavor": "These Roaches are starved and hungry for food."
   },

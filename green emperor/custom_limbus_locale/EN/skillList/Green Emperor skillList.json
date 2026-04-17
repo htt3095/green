@@ -174,8 +174,8 @@
     "id": "2123506",
     "levelList": [
       {
-        "level": 2,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)",
+        "level": 3,
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\n[WhenUse] Inflicts all types of Tremor — building toward Tremor Burst",
         "name": "The Emperor's Quaking",
         "flavor": "Oh my god how much tremor is that.",
         "rawDesc": "",
@@ -184,7 +184,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 4 Count and 4 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -192,7 +192,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 4 Count and 4 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -200,7 +200,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 4 Count and 4 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -293,7 +293,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 5% of target's max hp",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 2% of target's max HP",
                 "summary": ""
               }
             ]
@@ -301,7 +301,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 5% of target's max hp",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 2% of target's max HP",
                 "summary": ""
               }
             ]
@@ -309,7 +309,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 5% of target's max hp",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 2% of target's max HP",
                 "summary": ""
               }
             ]
@@ -317,7 +317,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 5% of target's max hp",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 2% of target's max HP",
                 "summary": ""
               }
             ]
@@ -331,7 +331,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "",
+        "desc": "[WhenUse] Guard — intercept an incoming attack",
         "name": "Emperor's Shell",
         "flavor": "",
         "rawDesc": "",
@@ -354,7 +354,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "",
+        "desc": "[WhenUse] Evade — avoid an incoming attack",
         "name": "Emperor's Evasion",
         "flavor": "",
         "rawDesc": "",

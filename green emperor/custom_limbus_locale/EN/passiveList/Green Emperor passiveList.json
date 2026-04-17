@@ -37,7 +37,7 @@
   "21235060": {
     "id": "21235060",
     "name": "Roach's Feast",
-    "desc": "Lose 40% of [OffenseBug] but green and gain [DefenseBug] but green equal to stacks lost",
+    "desc": "At Round Start: Gain [DefenseBug] but green equal to current [OffenseBug] but green stacks, then lose 50% of [OffenseBug] but green",
     "summary": "",
     "flavor": "Intrude, infest, devour."
   },
