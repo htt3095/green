@@ -175,7 +175,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\n[WhenUse] Inflicts all types of Tremor — building toward Tremor Burst",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nCoins inflict all types of Tremor — building toward Tremor Burst on the final coin",
         "name": "The Emperor's Quaking",
         "flavor": "Oh my god how much tremor is that.",
         "rawDesc": "",
@@ -208,7 +208,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Trigger [Tremor Burst]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Trigger Tremor Burst (Vibration Explosion)",
                 "summary": ""
               }
             ]
