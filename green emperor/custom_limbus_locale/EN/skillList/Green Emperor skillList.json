@@ -300,7 +300,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Critical Hit Deal dmg equal to 1% of target's max HP",
+                "desc": "ExtractCoin\nOn Critical Hit Deal 200 bonus damage",
                 "summary": ""
               }
             ]
@@ -308,7 +308,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Critical Hit Deal dmg equal to 1% of target's max HP",
+                "desc": "ExtractCoin\nOn Critical Hit Deal 200 bonus damage",
                 "summary": ""
               }
             ]
@@ -316,7 +316,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Critical Hit Deal dmg equal to 1% of target's max HP",
+                "desc": "ExtractCoin\nOn Critical Hit Deal 200 bonus damage",
                 "summary": ""
               }
             ]
@@ -324,7 +324,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Critical Hit Deal dmg equal to 1% of target's max HP",
+                "desc": "ExtractCoin\nOn Critical Hit Deal 200 bonus damage",
                 "summary": ""
               }
             ]

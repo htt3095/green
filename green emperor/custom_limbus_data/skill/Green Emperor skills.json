@@ -1977,7 +1977,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(Target,-200)"
                 }
               ]
             },
@@ -1988,7 +1988,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(Target,-200)"
                 }
               ]
             },
@@ -1999,7 +1999,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(Target,-200)"
                 }
               ]
             },
@@ -2010,7 +2010,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(Target,-200)"
                 }
               ]
             }
