@@ -191,7 +191,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Flash every special [Tremor] type — no Count (expires this turn).\nStrong types (Collapse/Continue/Echo/Ignition/Assimilation): 3 Potency. Other types (Chain/Spring/Distribution/Crack/combustionVulnerable): 4 Potency.",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Flash every special [Tremor] type — no Count (expires this turn).\nStrong types (Collapse/Continue/Echo/Ignition/Assimilation): 1 Potency. Other types (Chain/Spring/Distribution/Crack/combustionVulnerable): 2 Potency.",
                 "summary": ""
               }
             ]
@@ -199,7 +199,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Flash every special [Tremor] type — no Count (expires this turn).\nStrong types (Collapse/Continue/Echo/Ignition/Assimilation): 3 Potency. Other types (Chain/Spring/Distribution/Crack/combustionVulnerable): 4 Potency.",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Flash every special [Tremor] type — no Count (expires this turn).\nStrong types (Collapse/Continue/Echo/Ignition/Assimilation): 1 Potency. Other types (Chain/Spring/Distribution/Crack/combustionVulnerable): 2 Potency.",
                 "summary": ""
               }
             ]
