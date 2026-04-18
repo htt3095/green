@@ -1,235 +1,235 @@
 {
-    "list": [
+  "list": [
+    {
+      "id": "GreenRoaches",
+      "iconId": "GreenRoach",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 120,
+      "list": [
         {
-            "id": "GreenRoaches",
-            "iconId": "GreenRoach",
-            "buffClass": "NonvolatileBuff",
-            "buffType": "Positive",
-            "canBeDespelled": false,
-            "maxStack": 10000,
-            "list": [
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 5,
-                    "buffData": {
-                        "buffKeyword": "Breath",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 1,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 5,
-                    "buffData": {
-                        "buffKeyword": "PlusCoinValueUp",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 1,
-                    "buffData": {
-                        "buffKeyword": "Agility",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 1000,
-                    "buffData": {
-                        "buffKeyword": "Protection",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 100,
-                    "buffData": {
-                        "buffKeyword": "DefenseUp",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 100,
-                    "buffData": {
-                        "buffKeyword": "AttackUp",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 2000,
-                    "buffData": {
-                        "buffKeyword": "SukunaPlotArmor",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                }
-            ]
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 10,
+          "buffData": {
+            "buffKeyword": "Breath",
+            "target": "Self",
+            "stack": 1,
+            "turn": 1,
+            "activeRound": 0
+          }
         },
         {
-            "id": "EnragedGreenRoaches",
-            "iconId": "EnragedGreenRoach",
-            "buffClass": "NonvolatileBuff",
-            "buffType": "Negative",
-            "canBeDespelled": true,
-            "maxStack": 1000,
-            "list": [
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 50,
-                    "buffData": {
-                        "buffKeyword": "PlusCoinValueDown",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 20,
-                    "buffData": {
-                        "buffKeyword": "ParryingResultDown",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 10,
-                    "buffData": {
-                        "buffKeyword": "Binding",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 10,
-                    "buffData": {
-                        "buffKeyword": "Combustion",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 1,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 10,
-                    "buffData": {
-                        "buffKeyword": "Laceration",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 1,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "LoseStackOnRoundEndByRatio",
-                    "value": 0.5
-                }
-            ]
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 25,
+          "buffData": {
+            "buffKeyword": "Agility",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
         },
         {
-            "id": "SukunaPlotArmor",
-            "iconId": "SukunaPlotArmor",
-            "buffClass": "NonvolatileBuff",
-            "buffType": "Positive",
-            "canBeDespelled": false,
-            "maxStack": 20,
-            "list": [
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 1,
-                    "buffData": {
-                        "buffKeyword": "Restriction",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 1,
-                    "buffData": {
-                        "buffKeyword": "AttackDmgUp",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 1,
-                    "buffData": {
-                        "buffKeyword": "ChoSuperCharge",
-                        "target": "Self",
-                        "stack": 2,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                }
-            ]
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 40,
+          "buffData": {
+            "buffKeyword": "Protection",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
         },
         {
-            "id": "Restriction",
-            "iconId": "Restriction",
-            "buffClass": "NonvolatileBuff",
-            "buffType": "Negative",
-            "canBeDespelled": false,
-            "maxStack": 100,
-            "list": [
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 1,
-                    "buffData": {
-                        "buffKeyword": "DefenseDown",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                },
-                {
-                    "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-                    "value": 10,
-                    "buffData": {
-                        "buffKeyword": "Vulnerable",
-                        "target": "Self",
-                        "stack": 1,
-                        "turn": 0,
-                        "activeRound": 0
-                    }
-                }
-            ]
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 40,
+          "buffData": {
+            "buffKeyword": "DefenseUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 40,
+          "buffData": {
+            "buffKeyword": "AttackUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 60,
+          "buffData": {
+            "buffKeyword": "SukunaPlotArmor",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
         }
-    ]
+      ]
+    },
+    {
+      "id": "EnragedGreenRoaches",
+      "iconId": "EnragedGreenRoach",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "maxStack": 120,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 30,
+          "buffData": {
+            "buffKeyword": "PlusCoinValueDown",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 20,
+          "buffData": {
+            "buffKeyword": "ParryingResultDown",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 15,
+          "buffData": {
+            "buffKeyword": "Binding",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 12,
+          "buffData": {
+            "buffKeyword": "Combustion",
+            "target": "Self",
+            "stack": 1,
+            "turn": 1,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 12,
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "target": "Self",
+            "stack": 1,
+            "turn": 1,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEndByRatio",
+          "value": 0.4
+        }
+      ]
+    },
+    {
+      "id": "SukunaPlotArmor",
+      "iconId": "SukunaPlotArmor",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "maxStack": 6,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 2,
+          "buffData": {
+            "buffKeyword": "Restriction",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 3,
+          "buffData": {
+            "buffKeyword": "AttackDmgUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 6,
+          "buffData": {
+            "buffKeyword": "ResultEnhancement",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 6,
+          "buffData": {
+            "buffKeyword": "ParryingResultUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Restriction",
+      "iconId": "Restriction",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "maxStack": 30,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 2,
+          "buffData": {
+            "buffKeyword": "DefenseDown",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 6,
+          "buffData": {
+            "buffKeyword": "Vulnerable",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
+    }
+  ]
 }

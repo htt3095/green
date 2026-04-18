@@ -17,18 +17,18 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 9,
-          "defaultValue": 300,
+          "targetNum": 1,
+          "defaultValue": 400,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "AttackDmgMultiplierByNegativeBuffCountLimit_100",
-              "value": 0.20000000298023225,
+              "value": 0.03,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -78,7 +78,7 @@
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0,
-                "value": 0.10000000149011612,
+                "value": 0.01,
                 "limit": 0
               },
               "conditionalData": {
@@ -152,18 +152,18 @@
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 6,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 5,
-                    "turn": 5,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -172,7 +172,7 @@
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 2,
+                    "stack": 1,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -180,18 +180,18 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 6,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 5,
-                    "turn": 5,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -200,7 +200,7 @@
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 2,
+                    "stack": 1,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -228,18 +228,18 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 12,
-          "defaultValue": 800,
+          "targetNum": 1,
+          "defaultValue": 600,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "AttackDmgMultiplierByNegativeBuffCountLimit_100",
-              "value": 0.20000000298023225,
+              "value": 0.02,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -289,7 +289,7 @@
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0,
-                "value": 0.10000000149011612,
+                "value": 0.01,
                 "limit": 0
               },
               "conditionalData": {
@@ -363,18 +363,18 @@
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 8,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 8,
-                    "turn": 8,
+                    "stack": 2,
+                    "turn": 2,
                     "activeRound": 0
                   }
                 },
@@ -383,7 +383,7 @@
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 4,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -391,18 +391,18 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 8,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 8,
-                    "turn": 8,
+                    "stack": 2,
+                    "turn": 2,
                     "activeRound": 0
                   }
                 },
@@ -411,7 +411,7 @@
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 4,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -419,18 +419,18 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 8,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 8,
-                    "turn": 8,
+                    "stack": 2,
+                    "turn": 2,
                     "activeRound": 0
                   }
                 },
@@ -439,7 +439,7 @@
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 4,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -467,18 +467,18 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 5,
-          "defaultValue": 1100,
+          "targetNum": 1,
+          "defaultValue": 1200,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "1339SkillPowerAdderOnStartDuelByOppoSuperCoin",
-              "value": 100000.0,
+              "value": 2,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -561,10 +561,10 @@
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 190,
+              "scale": 5,
               "abilityScriptList": [
                 {
                   "scriptName": "133903ExtortAllPositiveBuffOnSucceedAttackIfUsableInDuel",
@@ -671,18 +671,18 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 12,
-          "defaultValue": 450,
+          "targetNum": 1,
+          "defaultValue": 600,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "AttackDmgMultiplierByNegativeBuffCountLimit_100",
-              "value": 0.20000000298023225,
+              "value": 0.02,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -732,7 +732,7 @@
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0,
-                "value": 0.10000000149011612,
+                "value": 0.01,
                 "limit": 0
               },
               "conditionalData": {
@@ -771,7 +771,7 @@
                 "target": "Self",
                 "buffOwner": "",
                 "stack": 0,
-                "turn": 25,
+                "turn": 6,
                 "activeRound": 0,
                 "value": 0.0,
                 "limit": 0
@@ -888,18 +888,18 @@
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 10,
+              "scale": 5,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 8,
-                    "turn": 8,
+                    "stack": 2,
+                    "turn": 2,
                     "activeRound": 0
                   }
                 },
@@ -908,7 +908,7 @@
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 4,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -916,18 +916,18 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 10,
+              "scale": 5,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 8,
-                    "turn": 8,
+                    "stack": 2,
+                    "turn": 2,
                     "activeRound": 0
                   }
                 },
@@ -936,7 +936,7 @@
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 4,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -944,18 +944,18 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 10,
+              "scale": 5,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 8,
-                    "turn": 8,
+                    "stack": 2,
+                    "turn": 2,
                     "activeRound": 0
                   }
                 },
@@ -964,14 +964,14 @@
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 4,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
                 },
                 {
                   "scriptName": "133904ChargeToDmgMultiplier",
-                  "value": 0.20000000298023225,
+                  "value": 0.02,
                   "turnLimit": 0,
                   "buffData": {
                     "buffKeyword": "",
@@ -1033,14 +1033,14 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 12,
-          "defaultValue": 600,
+          "targetNum": 1,
+          "defaultValue": 500,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "AttackDmgUpByRatioViaBuffCheckDevideByStack",
@@ -1053,7 +1053,7 @@
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0,
-                "value": 0.10000000149011612,
+                "value": 0.01,
                 "limit": 0
               },
               "conditionalData": {
@@ -1127,17 +1127,17 @@
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 6,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 5,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -1145,17 +1145,17 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 6,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 5,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -1163,17 +1163,17 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 6,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 5,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -1181,17 +1181,17 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 8,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "EnragedGreenRoaches",
                     "target": "Target",
-                    "stack": 5,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -1219,376 +1219,214 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 20,
-          "defaultValue": 750,
+          "targetNum": 1,
+          "defaultValue": 1000,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             }
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 8,
+              "scale": 5,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vibration",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 1
                   }
-                },
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "color": "GREEN",
+              "grade": 4,
+              "scale": 5,
+              "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationChain",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationCollapse",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationEcho",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationIgnition",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationSpring",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationDistribution",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationContinue",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationCrack",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "combustionVulnerable",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationAssimilation",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 }
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 8,
+              "scale": 5,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Vibration",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
                     "buffKeyword": "VibrationChain",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationCollapse",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationEcho",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationIgnition",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationSpring",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationDistribution",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationContinue",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 1,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationCrack",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "combustionVulnerable",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
+                    "stack": 2,
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationAssimilation",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 }
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 8,
-              "abilityScriptList": [
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "Vibration",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationChain",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationCollapse",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationEcho",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationIgnition",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationSpring",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationDistribution",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationContinue",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationCrack",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "combustionVulnerable",
-                    "target": "Target",
-                    "stack": 99,
-                    "turn": 99,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationAssimilation",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
-                  }
-                }
-              ]
-            },
-            {
-              "operatorType": "MUL",
-              "color": "GREEN",
-              "grade": 4,
-              "scale": 8,
+              "scale": 5,
               "abilityScriptList": [
                 {
                   "scriptName": "VibrationExplosionOnSucceedAttack"
@@ -1616,18 +1454,18 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 5,
-          "defaultValue": 2500,
+          "targetNum": 1,
+          "defaultValue": 1400,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "1339SkillPowerAdderOnStartDuelByOppoSuperCoin",
-              "value": 1000000.0,
+              "value": 2,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -1710,18 +1548,18 @@
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 40,
+              "scale": 7,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 20,
-                    "turn": 20,
+                    "stack": 4,
+                    "turn": 4,
                     "activeRound": 0
                   }
                 },
@@ -1730,7 +1568,7 @@
                   "buffData": {
                     "buffKeyword": "AttackDown",
                     "target": "Target",
-                    "stack": 30,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -1738,18 +1576,18 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 40,
+              "scale": 7,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
                   "buffData": {
                     "buffKeyword": "",
                     "target": "Target",
-                    "stack": 20,
-                    "turn": 20,
+                    "stack": 4,
+                    "turn": 4,
                     "activeRound": 0
                   }
                 },
@@ -1758,7 +1596,7 @@
                   "buffData": {
                     "buffKeyword": "AttackDown",
                     "target": "Target",
-                    "stack": 30,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -1786,18 +1624,18 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 5,
-          "defaultValue": 2500,
+          "targetNum": 1,
+          "defaultValue": 1400,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "1339SkillPowerAdderOnStartDuelByOppoSuperCoin",
-              "value": 1000000.0,
+              "value": 2,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -1880,10 +1718,10 @@
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 40,
+              "scale": 7,
               "abilityScriptList": [
                 {
                   "scriptName": "ReduceTargetShieldAllOnSucceedAttackIfUsableCoin",
@@ -1934,7 +1772,7 @@
                     "buffKeyword": "Paralysis",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 20,
+                    "stack": 3,
                     "turn": 0,
                     "activeRound": 0,
                     "value": 0.0,
@@ -1970,10 +1808,10 @@
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 40,
+              "scale": 7,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
@@ -1983,7 +1821,7 @@
                     "buffKeyword": "PlusCoinValueDown",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 25,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0,
                     "value": 0.0,
@@ -2039,68 +1877,68 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 5,
-          "defaultValue": 1111,
+          "targetNum": 1,
+          "defaultValue": 1000,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "GiveBuffOnUse",
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
-                "stack": 20,
-                "turn": 4,
+                "stack": 6,
+                "turn": 2,
                 "activeRound": 0
               }
             }
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 11,
+              "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-25%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
                 }
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 11,
+              "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-25%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
                 }
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 11,
+              "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-25%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
                 }
               ]
             },
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 11,
+              "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-25%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
                 }
               ]
             }
@@ -2126,7 +1964,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1000000000,
+          "defaultValue": 700,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [],
@@ -2160,16 +1998,16 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 25000,
+          "defaultValue": 600,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 8,
+              "scale": 4,
               "abilityScriptList": []
             }
           ]
@@ -2193,14 +2031,14 @@
           "range": 9,
           "arearange": 4,
           "viewType": "BATTLE",
-          "targetNum": 20,
-          "defaultValue": 50000000,
-          "skillLevelCorrection": 2000,
+          "targetNum": 1,
+          "defaultValue": 900,
+          "skillLevelCorrection": 500,
           "mpUsage": -10,
           "abilityScriptList": [
             {
               "scriptName": "CreateMangWithAttackDamageUpByRatioAndSKillPowerResultAdderOnStartTurn_1_4",
-              "value": 8000
+              "value": 2
             },
             {
               "scriptName": "GiveBuffOnUse",
@@ -2215,10 +2053,10 @@
           ],
           "coinList": [
             {
-              "operatorType": "MUL",
+              "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 10,
+              "scale": 6,
               "abilityScriptList": []
             }
           ]

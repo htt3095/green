@@ -1,34 +1,34 @@
 {
-    "GreenRoaches": {
-        "a": 0,
-        "id": "GreenRoaches",
-        "name": "Green Roaches (Enchancing)",
-        "desc": "Enchances the emperor with buffs [Gain 1 Binding Vow for every 2000 Green Roaches] (Max 10000)",
-        "summary": "",
-        "flavor": "Loyal to the Green Emperor"
-    },
-    "EnragedGreenRoaches": {
-        "a": 0,
-        "id": "EnragedGreenRoaches",
-        "name": "Green Roaches (Enraged)",
-        "desc": "For every stack gain 1 Burn/Bleed/Bind for every tenth stack and 1 Clash Power Down for every twentieth stack and 1 Plus Coin Drop for every fiftieth stack (Max 1000)",
-        "summary": "",
-        "flavor": "These Roaches are starved and hungry for food."
-    },
-    "SukunaPlotArmor": {
-        "a": 0,
-        "id": "SukunaPlotArmor",
-        "name": "Binding Vow (Green Emperor)",
-        "desc": "Gain 1 restriction and Damage Up and 2 Near-light Superbattery for every Binding Vow (Max 20)",
-        "summary": "",
-        "flavor": "why did I add this?"
-    },
-    "Restriction": {
-        "a": 0,
-        "id": "Restriction",
-        "name": "Restriction",
-        "desc": "Gain 1 Defense Level Down for every Restriction, gain 1 fragile for every ten Restrictions (Max 100)",
-        "summary": "",
-        "flavor": "I don't watch JJK"
-    }
+  "GreenRoaches": {
+    "a": 0,
+    "id": "GreenRoaches",
+    "name": "Green Roaches (Enhancing)",
+    "desc": "Each Round Start, grant the Emperor buffs based on stack count:\n1 Poise Potency (1 turn) per 10 stacks; 1 Haste per 25 stacks; 1 Protection per 40 stacks; 1 Defense Level Up per 40 stacks; 1 Attack Level Up per 40 stacks; 1 Binding Vow per 60 stacks. (Max 120)",
+    "summary": "",
+    "flavor": "Loyal to the Green Emperor"
+  },
+  "EnragedGreenRoaches": {
+    "a": 0,
+    "id": "EnragedGreenRoaches",
+    "name": "Green Roaches (Enraged)",
+    "desc": "Each Round Start, afflict the bearer:\n1 Burn (1 turn) per 12 stacks; 1 Bleed (1 turn) per 12 stacks; 1 Bind per 15 stacks; 1 Clash Power Down per 20 stacks; 1 Plus Coin Power Down per 30 stacks.\nLose 40% of stacks at Round End. (Max 120)",
+    "summary": "",
+    "flavor": "These Roaches are starved and hungry for food."
+  },
+  "SukunaPlotArmor": {
+    "a": 0,
+    "id": "SukunaPlotArmor",
+    "name": "Binding Vow (Green Emperor)",
+    "desc": "Gain 1 Restriction per 2 Binding Vows; 1 Final Damage Up per 3 Binding Vows (max 2); at maximum Binding Vows (6), gain 1 Final Power and 1 Clash Power. (Max 6)",
+    "summary": "",
+    "flavor": "why did I add this?"
+  },
+  "Restriction": {
+    "a": 0,
+    "id": "Restriction",
+    "name": "Restriction",
+    "desc": "Gain 1 Defense Level Down for every 2 Restriction; gain 1 Fragile for every 6 Restriction (Max 30)",
+    "summary": "",
+    "flavor": "I don't watch JJK"
+  }
 }
