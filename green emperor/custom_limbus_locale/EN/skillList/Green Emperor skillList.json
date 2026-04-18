@@ -174,7 +174,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nCoins inflict all types of Tremor — building toward Tremor Burst on the final coin",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nCoin 1 seeds 1 Count of base Tremor. Coins 2–3 flash every special Tremor type for this turn only (no Count). Coin 4 detonates.",
         "name": "The Emperor's Quaking",
         "flavor": "Oh my god how much tremor is that.",
         "rawDesc": "",
@@ -183,7 +183,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Count and 1 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Count of base [Tremor] (persists)",
                 "summary": ""
               }
             ]
@@ -191,7 +191,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Count and 1 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Potency of every special [Tremor] type — no Count (expires this turn; converts to whichever single type survives teammate interactions)",
                 "summary": ""
               }
             ]
@@ -199,7 +199,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Count and 1 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Potency of every special [Tremor] type — no Count (expires this turn; converts to whichever single type survives teammate interactions)",
                 "summary": ""
               }
             ]

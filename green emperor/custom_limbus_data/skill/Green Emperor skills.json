@@ -1240,110 +1240,8 @@
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "Vibration",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationChain",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationCollapse",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationEcho",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationIgnition",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationSpring",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationDistribution",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationContinue",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationCrack",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "combustionVulnerable",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "VibrationAssimilation",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
+                    "turn": 1
                   }
                 }
               ]
@@ -1357,111 +1255,81 @@
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Vibration",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
                     "buffKeyword": "VibrationChain",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationCollapse",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationEcho",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationIgnition",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationSpring",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationDistribution",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationContinue",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationCrack",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "combustionVulnerable",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationAssimilation",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 }
               ]
@@ -1475,111 +1343,81 @@
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Vibration",
-                    "target": "Target",
-                    "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
                     "buffKeyword": "VibrationChain",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationCollapse",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationEcho",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationIgnition",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationSpring",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationDistribution",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationContinue",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationCrack",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "combustionVulnerable",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 1,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "VibrationAssimilation",
-                    "target": "Target",
                     "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
+                    "turn": 0
                   }
                 }
               ]
