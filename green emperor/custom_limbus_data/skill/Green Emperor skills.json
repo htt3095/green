@@ -1241,8 +1241,8 @@
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1251,8 +1251,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationChain",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1261,8 +1261,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationCollapse",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1271,8 +1271,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationEcho",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1281,8 +1281,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationIgnition",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1291,8 +1291,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationSpring",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1301,8 +1301,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationDistribution",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1311,8 +1311,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationContinue",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1321,8 +1321,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationCrack",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1331,8 +1331,8 @@
                   "buffData": {
                     "buffKeyword": "combustionVulnerable",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1359,8 +1359,8 @@
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1369,8 +1369,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationChain",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1379,8 +1379,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationCollapse",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1389,8 +1389,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationEcho",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1399,8 +1399,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationIgnition",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1409,8 +1409,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationSpring",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1419,8 +1419,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationDistribution",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1429,8 +1429,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationContinue",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1439,8 +1439,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationCrack",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1449,8 +1449,8 @@
                   "buffData": {
                     "buffKeyword": "combustionVulnerable",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1477,8 +1477,8 @@
                   "buffData": {
                     "buffKeyword": "Vibration",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1487,8 +1487,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationChain",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1497,8 +1497,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationCollapse",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1507,8 +1507,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationEcho",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1517,8 +1517,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationIgnition",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1527,8 +1527,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationSpring",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1537,8 +1537,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationDistribution",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1547,8 +1547,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationContinue",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1557,8 +1557,8 @@
                   "buffData": {
                     "buffKeyword": "VibrationCrack",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -1567,8 +1567,8 @@
                   "buffData": {
                     "buffKeyword": "combustionVulnerable",
                     "target": "Target",
-                    "stack": 3,
-                    "turn": 3,
+                    "stack": 1,
+                    "turn": 1,
                     "activeRound": 0
                   }
                 },
@@ -2067,7 +2067,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-2%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
                 }
               ]
             },
@@ -2078,7 +2078,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-2%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
                 }
               ]
             },
@@ -2089,7 +2089,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-2%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
                 }
               ]
             },
@@ -2100,7 +2100,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-2%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
                 }
               ]
             }

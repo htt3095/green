@@ -183,7 +183,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Count and 1 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -191,7 +191,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Count and 1 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -199,7 +199,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency of every kind of [Tremor]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Count and 1 Potency of every kind of [Tremor]",
                 "summary": ""
               }
             ]
@@ -292,7 +292,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 2% of target's max HP",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 1% of target's max HP",
                 "summary": ""
               }
             ]
@@ -300,7 +300,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 2% of target's max HP",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 1% of target's max HP",
                 "summary": ""
               }
             ]
@@ -308,7 +308,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 2% of target's max HP",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 1% of target's max HP",
                 "summary": ""
               }
             ]
@@ -316,7 +316,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 2% of target's max HP",
+                "desc": "[ExtractCoin]\n[CriticalOnSucceedAttack] Deal damage equal to 1% of target's max HP",
                 "summary": ""
               }
             ]
