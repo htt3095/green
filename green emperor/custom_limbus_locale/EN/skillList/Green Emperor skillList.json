@@ -191,7 +191,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[On Hit] Inflict all [Tremor] sub-types at 0 Count (expire end of turn)\nCollapse / Continue / Echo / Ignition / Assimilation: 1 Potency\nChain / Spring / Distribution / Crack / Combustion: 2 Potency",
+                "desc": "[ExtractCoin]\n[On Hit] Inflict all [Tremor] sub-types at 0 Count (expire end of turn)\nCollapse / Everlasting / Echo / Ignition / Assimilation: 1 Potency\nChaining / Springy / Distribution / Crack / Combustion Vulnerability: 2 Potency",
                 "summary": ""
               }
             ]
@@ -199,7 +199,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[On Hit] Inflict all [Tremor] sub-types at 0 Count (expire end of turn)\nCollapse / Continue / Echo / Ignition / Assimilation: 1 Potency\nChain / Spring / Distribution / Crack / Combustion: 2 Potency",
+                "desc": "[ExtractCoin]\n[On Hit] Inflict all [Tremor] sub-types at 0 Count (expire end of turn)\nCollapse / Everlasting / Echo / Ignition / Assimilation: 1 Potency\nChaining / Springy / Distribution / Crack / Combustion Vulnerability: 2 Potency",
                 "summary": ""
               }
             ]
