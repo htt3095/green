@@ -11,7 +11,7 @@
     "a": 0,
     "id": "EnragedGreenRoaches",
     "name": "Green Roaches (Enraged)",
-    "desc": "Each Round Start, afflict the bearer:\n1 Burn (1 turn) per 12 stacks; 1 Bleed (1 turn) per 12 stacks; 1 Bind per 15 stacks; 1 Clash Power Down per 20 stacks; 1 Plus Coin Power Down per 30 stacks.\nLose 40% of stacks at Round End. (Max 120)",
+    "desc": "Each Round Start, afflict the bearer:\n1 Burn (1 turn) per 12 stacks; 1 Bleed (1 turn) per 12 stacks; 1 Bind per 15 stacks; 1 Clash Power Down per 20 stacks; 1 Plus Coin Power Down per 30 stacks.\nLose 40% of stacks at Round End. (Max 30)",
     "summary": "",
     "flavor": "These Roaches are starved and hungry for food."
   },

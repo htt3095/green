@@ -82,7 +82,7 @@
       "buffClass": "NonvolatileBuff",
       "buffType": "Negative",
       "canBeDespelled": true,
-      "maxStack": 120,
+      "maxStack": 30,
       "list": [
         {
           "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",

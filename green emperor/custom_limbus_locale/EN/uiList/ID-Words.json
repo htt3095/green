@@ -1,10 +1,10 @@
 {
-    "UnitKeyword_GREEN": {
-        "id": "UnitKeyword_GREEN",
-        "content": "<color=#b1ff00>Green</color>"
-    },
-    "UnitKeyword_MINOR_DEITY": {
-        "id": "UnitKeyword_MINOR_DEITY",
-        "content": "<color=#b1ff00>Minor Deity</color>"
-    }
+  "UnitKeyword_GREEN": {
+    "id": "UnitKeyword_GREEN",
+    "content": "Green"
+  },
+  "UnitKeyword_MINOR_DEITY": {
+    "id": "UnitKeyword_MINOR_DEITY",
+    "content": "Minor Deity"
+  }
 }

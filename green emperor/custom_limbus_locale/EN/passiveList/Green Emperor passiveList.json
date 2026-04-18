@@ -9,35 +9,35 @@
   "21235020": {
     "id": "21235020",
     "name": "The Emperor's Mantle",
-    "desc": "Turn Start: Gain Shield equal to (Green Roaches × 100)\nOn Kill: Gain 10 [DefenseBug]\nTurn Start: Gain 4~10 [DefenseBug]",
+    "desc": "Turn Start: Gain Shield equal to (Green Roaches × 100)\nOn Kill: Gain 10 DefenseBug\nTurn Start: Gain 4~10 DefenseBug",
     "summary": "",
     "flavor": "The Legion of (Green) Roaches moves for no one but its Emperor."
   },
   "21235030": {
     "id": "21235030",
     "name": "Deity's Revival",
-    "desc": "(Once) When HP drops below 0: Recover 25% max HP; gain 1~2 [Coin Power Down]",
+    "desc": "(Once) When HP drops below 0: Recover 25% max HP; gain 1~2 Coin Power Down",
     "summary": "",
     "flavor": "The Emperor will not fall."
   },
   "21235040": {
     "id": "21235040",
     "name": "Emperor's Guard",
-    "desc": "[On Lose Clash] Use a Guard skill",
+    "desc": "On Lose Clash Use a Guard skill",
     "summary": "",
     "flavor": "The Emperor's guard will not falter"
   },
   "21235050": {
     "id": "21235050",
     "name": "Emperor's Legion",
-    "desc": "[On Win Clash] Inflict 3 [OffenseBug]\n[On Hit] Inflict 1 [OffenseBug]\n[On Critical Hit] Inflict 2 [OffenseBug]",
+    "desc": "On Win Clash Inflict 3 OffenseBug\nOn Hit Inflict 1 OffenseBug\nOn Critical Hit Inflict 2 OffenseBug",
     "summary": "",
     "flavor": "Rip, seep, trickle, carve, tear, devour."
   },
   "21235060": {
     "id": "21235060",
     "name": "Roach's Feast",
-    "desc": "Round Start: Gain [DefenseBug] equal to current [OffenseBug] count; lose 50% [OffenseBug]",
+    "desc": "Round Start: Gain DefenseBug equal to current OffenseBug count; lose 50% OffenseBug",
     "summary": "",
     "flavor": "Intrude, infest, devour."
   },

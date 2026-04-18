@@ -18,7 +18,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 400,
+          "defaultValue": 4,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -229,7 +229,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 600,
+          "defaultValue": 6,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -468,7 +468,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1200,
+          "defaultValue": 12,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -672,7 +672,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 600,
+          "defaultValue": 6,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1034,7 +1034,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 500,
+          "defaultValue": 5,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1220,7 +1220,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1000,
+          "defaultValue": 10,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [
@@ -1455,7 +1455,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1400,
+          "defaultValue": 14,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1625,7 +1625,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1400,
+          "defaultValue": 14,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1878,7 +1878,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1000,
+          "defaultValue": 10,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1964,7 +1964,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 700,
+          "defaultValue": 7,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [],
@@ -1998,7 +1998,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 600,
+          "defaultValue": 6,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [],
@@ -2032,7 +2032,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 900,
+          "defaultValue": 9,
           "skillLevelCorrection": 500,
           "mpUsage": -10,
           "abilityScriptList": [

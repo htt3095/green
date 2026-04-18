@@ -33,8 +33,8 @@
       ],
       "rank": 3,
       "hp": {
-        "defaultStat": 53800000000,
-        "incrementByLevel": 2781000000
+        "defaultStat": 32000000000,
+        "incrementByLevel": 0
       },
       "defCorrection": 290,
       "minSpeedList": [
