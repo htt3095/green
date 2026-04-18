@@ -2,49 +2,49 @@
   "21235010": {
     "id": "21235010",
     "name": "Deity's Blessing",
-    "desc": "Turn Start: Heal 3 SP",
+    "desc": "Turn Start: Restore 3 SP",
     "summary": "",
     "flavor": ""
   },
   "21235020": {
     "id": "21235020",
     "name": "The Emperor's Mantle",
-    "desc": "Turn Start: Gain Shield equal to Green Roaches x 100\nOn Kill: Gain 10 [DefenseBug] but green\nTurn Start: Gain 4 ~ 10 [DefenseBug] but green",
+    "desc": "Turn Start: Gain Shield equal to (Green Roaches × 100)\nOn Kill: Gain 10 [DefenseBug]\nTurn Start: Gain 4~10 [DefenseBug]",
     "summary": "",
     "flavor": "The Legion of (Green) Roaches moves for no one but its Emperor."
   },
   "21235030": {
     "id": "21235030",
     "name": "Deity's Revival",
-    "desc": "(One Time) If Green Emperor's health is below 0, regain 25% health and gain 1 ~ 2 [PlusCoinValueDown]",
+    "desc": "(Once) When HP drops below 0: Recover 25% max HP; gain 1~2 [Coin Power Down]",
     "summary": "",
     "flavor": "The Emperor will not fall."
   },
   "21235040": {
     "id": "21235040",
     "name": "Emperor's Guard",
-    "desc": "[DefeatDuel] Use a guard skill",
+    "desc": "[On Lose Clash] Use a Guard skill",
     "summary": "",
     "flavor": "The Emperor's guard will not falter"
   },
   "21235050": {
     "id": "21235050",
     "name": "Emperor's Legion",
-    "desc": "[WinDuel] Inflict 3 [OffenseBug] but green\n[OnSucceedAttack] Inflict 1 [OffenseBug] but green\n[CriticalOnSucceedAttack] Inflict 2 [OffenseBug] but green",
+    "desc": "[On Win Clash] Inflict 3 [OffenseBug]\n[On Hit] Inflict 1 [OffenseBug]\n[On Critical Hit] Inflict 2 [OffenseBug]",
     "summary": "",
     "flavor": "Rip, seep, trickle, carve, tear, devour."
   },
   "21235060": {
     "id": "21235060",
     "name": "Roach's Feast",
-    "desc": "At Round Start: Gain [DefenseBug] but green equal to current [OffenseBug] but green stacks, then lose 50% of [OffenseBug] but green",
+    "desc": "Round Start: Gain [DefenseBug] equal to current [OffenseBug] count; lose 50% [OffenseBug]",
     "summary": "",
     "flavor": "Intrude, infest, devour."
   },
   "21235070": {
     "id": "21235070",
     "name": "Binding Vow",
-    "desc": "Heal 1% max health for every 1 stack of Binding Vows on The Green Emperor (Max 6%)",
+    "desc": "Heal 1% max HP per Binding Vow on self (max 6%)",
     "summary": "",
     "flavor": "Why did I add this passive?"
   }
