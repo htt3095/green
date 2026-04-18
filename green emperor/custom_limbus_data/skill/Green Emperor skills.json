@@ -443,6 +443,16 @@
                     "turn": 0,
                     "activeRound": 0
                   }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "SukunaPlotArmor",
+                    "target": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
                 }
               ]
             }
@@ -1564,13 +1574,44 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "value": 0.0,
+                  "turnLimit": 0,
                   "buffData": {
                     "buffKeyword": "AttackDown",
                     "target": "Target",
+                    "buffOwner": "",
                     "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 0,
+                    "value": 0.0,
+                    "limit": 0
+                  },
+                  "conditionalData": {
+                    "category": "",
+                    "value": "",
+                    "conditionBuffData": {
+                      "buffKeyword": "",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 0,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.0,
+                      "limit": 0
+                    },
+                    "type": "",
+                    "resultValue": "",
+                    "resultBuffData": {
+                      "buffKeyword": "",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 0,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.0,
+                      "limit": 0
+                    }
                   }
                 }
               ]
@@ -1592,13 +1633,44 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "value": 0.0,
+                  "turnLimit": 0,
                   "buffData": {
                     "buffKeyword": "AttackDown",
                     "target": "Target",
+                    "buffOwner": "",
                     "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 0,
+                    "value": 0.0,
+                    "limit": 0
+                  },
+                  "conditionalData": {
+                    "category": "",
+                    "value": "",
+                    "conditionBuffData": {
+                      "buffKeyword": "",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 0,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.0,
+                      "limit": 0
+                    },
+                    "type": "",
+                    "resultValue": "",
+                    "resultBuffData": {
+                      "buffKeyword": "",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 0,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.0,
+                      "limit": 0
+                    }
                   }
                 }
               ]
