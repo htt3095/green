@@ -13,7 +13,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin] Inflict 2 Count and 2 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 1 [OffenseBug] but green",
+                "desc": "[ExtractCoin] Inflict 1 Count and 1 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 1 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -21,7 +21,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin] Inflict 2 Count and 2 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 1 [OffenseBug] but green",
+                "desc": "[ExtractCoin] Inflict 1 Count and 1 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 1 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -44,7 +44,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 2 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 2 Count and 2 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -52,7 +52,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 2 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 2 Count and 2 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\nInflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -60,7 +60,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\n[OnSucceedAttack] Gain 1 Binding Vow\nInflict 2 [OffenseBug] but green",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 2 Count and 2 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]\n[OnSucceedAttack] Gain 1 Binding Vow\nInflict 2 [OffenseBug] but green",
                 "summary": ""
               }
             ]
@@ -106,7 +106,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 3 Count and 3 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 2 Count and 2 Potency chosen from [Burn], [Bleed], [Tremor], [Rupture], and [Sinking]",
                 "summary": ""
               }
             ]
