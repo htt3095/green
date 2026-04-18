@@ -28,7 +28,7 @@
             },
             {
               "scriptName": "AttackDmgMultiplierByNegativeBuffCountLimit_100",
-              "value": 0.05,
+              "value": 0.03,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -78,7 +78,7 @@
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0,
-                "value": 0.02,
+                "value": 0.01,
                 "limit": 0
               },
               "conditionalData": {
@@ -239,7 +239,7 @@
             },
             {
               "scriptName": "AttackDmgMultiplierByNegativeBuffCountLimit_100",
-              "value": 0.04,
+              "value": 0.02,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -289,7 +289,7 @@
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0,
-                "value": 0.02,
+                "value": 0.01,
                 "limit": 0
               },
               "conditionalData": {
@@ -682,7 +682,7 @@
             },
             {
               "scriptName": "AttackDmgMultiplierByNegativeBuffCountLimit_100",
-              "value": 0.04,
+              "value": 0.02,
               "turnLimit": 0,
               "buffData": {
                 "buffKeyword": "",
@@ -732,7 +732,7 @@
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0,
-                "value": 0.02,
+                "value": 0.01,
                 "limit": 0
               },
               "conditionalData": {
@@ -1053,7 +1053,7 @@
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0,
-                "value": 0.02,
+                "value": 0.01,
                 "limit": 0
               },
               "conditionalData": {

@@ -3,7 +3,7 @@
     "a": 0,
     "id": "GreenRoaches",
     "name": "Green Roaches (Enhancing)",
-    "desc": "Each Round Start, grant the Emperor buffs based on stack count:\n1 Poise Potency (1 turn) per 10 stacks; 1 Haste per 25 stacks; 1 Protection per 40 stacks; 1 Defense Level Up per 30 stacks; 1 Attack Level Up per 30 stacks; 1 Binding Vow per 60 stacks. (Max 120)",
+    "desc": "Each Round Start, grant the Emperor buffs based on stack count:\n1 Poise Potency (1 turn) per 10 stacks; 1 Haste per 25 stacks; 1 Protection per 40 stacks; 1 Defense Level Up per 40 stacks; 1 Attack Level Up per 40 stacks; 1 Binding Vow per 60 stacks. (Max 120)",
     "summary": "",
     "flavor": "Loyal to the Green Emperor"
   },

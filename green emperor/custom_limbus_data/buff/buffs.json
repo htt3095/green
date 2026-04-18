@@ -43,7 +43,7 @@
         },
         {
           "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-          "value": 30,
+          "value": 40,
           "buffData": {
             "buffKeyword": "DefenseUp",
             "target": "Self",
@@ -54,7 +54,7 @@
         },
         {
           "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-          "value": 30,
+          "value": 40,
           "buffData": {
             "buffKeyword": "AttackUp",
             "target": "Self",

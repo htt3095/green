@@ -4,7 +4,7 @@
       "id": 21235010,
       "attributeResonanceCondition": [],
       "requireIDList": [
-        "Modular/TIMING:RoundStart/healsp(Self,6)"
+        "Modular/TIMING:RoundStart/healsp(Self,3)"
       ]
     },
     {

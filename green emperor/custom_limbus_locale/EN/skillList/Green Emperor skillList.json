@@ -4,7 +4,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +5% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +3% Damage for every negative effect on enemy\nDeal +1% Damage for every stack of [OffenseBug] but green on enemy",
         "name": "The Emperor's Fist",
         "flavor": "",
         "rawDesc": "",
@@ -35,7 +35,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +4% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +2% Damage for every negative effect on enemy\nDeal +1% Damage for every stack of [OffenseBug] but green on enemy",
         "name": " The Emperor's Whip & Fist",
         "flavor": "",
         "rawDesc": "",
@@ -97,7 +97,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +4% Damage for every negative effect on enemy\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy\n[WhenUse] Gain +6 [Charge]\n[DefeatDuel] Deal -50% damage and damage dealt by this skill cannot stagger target",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +2% Damage for every negative effect on enemy\nDeal +1% Damage for every stack of [OffenseBug] but green on enemy\n[WhenUse] Gain +6 [Charge]\n[DefeatDuel] Deal -50% damage and damage dealt by this skill cannot stagger target",
         "name": "The Emperor's Flogging",
         "flavor": "",
         "rawDesc": "",
@@ -128,9 +128,8 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +2% Damage for every stack of [OffenseBug] but green on enemy",
+        "desc": "[WhenUse] At 0+ SP, generate 2 Mang (望)\nDeal +1% Damage for every stack of [OffenseBug] but green on enemy",
         "name": "March of Roaches",
-        "flavor": "Roach's Feast",
         "rawDesc": "",
         "abName": "",
         "coinlist": [
