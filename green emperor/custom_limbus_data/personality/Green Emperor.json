@@ -33,7 +33,7 @@
       ],
       "rank": 3,
       "hp": {
-        "defaultStat": 32000000000,
+        "defaultStat": 320,
         "incrementByLevel": 0
       },
       "defCorrection": 290,
