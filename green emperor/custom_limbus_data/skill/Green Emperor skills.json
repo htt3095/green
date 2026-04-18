@@ -780,8 +780,8 @@
                 "buffKeyword": "Charge",
                 "target": "Self",
                 "buffOwner": "",
-                "stack": 0,
-                "turn": 6,
+                "stack": 6,
+                "turn": 0,
                 "activeRound": 0,
                 "value": 0.0,
                 "limit": 0

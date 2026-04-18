@@ -4,7 +4,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Hit +3% dmg per negative status on enemy\nOn Hit +1% dmg per OffenseBug on enemy",
+        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Hit +3% dmg per negative status on enemy\nOn Hit +1% dmg per Green Roaches (Enraged) on enemy",
         "name": "The Emperor's Fist",
         "flavor": "",
         "rawDesc": "",
@@ -13,7 +13,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 1 Count, 1 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 1 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 1 Count, 1 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 1 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -21,7 +21,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 1 Count, 1 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 1 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 1 Count, 1 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 1 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -35,7 +35,7 @@
     "levelList": [
       {
         "level": 1,
-        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Hit +2% dmg per negative status on enemy\nOn Hit +1% dmg per OffenseBug on enemy",
+        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Hit +2% dmg per negative status on enemy\nOn Hit +1% dmg per Green Roaches (Enraged) on enemy",
         "name": " The Emperor's Whip & Fist",
         "flavor": "",
         "rawDesc": "",
@@ -44,7 +44,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -52,7 +52,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -60,7 +60,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 OffenseBug\nOn Hit Gain 1 Binding Vow",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 Green Roaches (Enraged)\nOn Hit Gain 1 Binding Vow",
                 "summary": ""
               }
             ]
@@ -97,7 +97,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Use Gain 6 Charge\nOn Hit +2% dmg per negative status on enemy; +1% per OffenseBug\nOn Lose Clash -50% dmg; cannot Stagger target",
+        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Use Gain 6 Charge\nOn Hit +2% dmg per negative status on enemy; +1% per Green Roaches (Enraged)\nOn Lose Clash -50% dmg; cannot Stagger target",
         "name": "The Emperor's Flogging",
         "flavor": "",
         "rawDesc": "",
@@ -106,7 +106,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -114,7 +114,15 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Consume all Charge; deal +(Consumed Count × 2)% bonus dmg",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 Green Roaches (Enraged)",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Count, 2 Potency of one: Burn / Bleed / Tremor / Rupture / Sinking\nOn Hit Inflict 2 Green Roaches (Enraged)\nOn Hit Consume all Charge; deal +(Consumed Count x 2)% bonus dmg",
                 "summary": ""
               }
             ]
@@ -128,7 +136,7 @@
     "levelList": [
       {
         "level": 2,
-        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Hit +1% dmg per OffenseBug on enemy",
+        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Hit +1% dmg per Green Roaches (Enraged) on enemy",
         "name": "March of Roaches",
         "rawDesc": "",
         "abName": "",
@@ -136,7 +144,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 2 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -144,7 +152,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 2 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -152,7 +160,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 2 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -160,7 +168,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Hit Inflict 2 OffenseBug",
+                "desc": "ExtractCoin\nOn Hit Inflict 2 Green Roaches (Enraged)",
                 "summary": ""
               }
             ]
@@ -283,7 +291,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Use Gain 6 Poise Potency and 2 Poise Count",
+        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Use Gain 6 Poise Potency (lasts 2 turns)",
         "name": "Don't forget to go for the heart.",
         "flavor": "",
         "rawDesc": "",

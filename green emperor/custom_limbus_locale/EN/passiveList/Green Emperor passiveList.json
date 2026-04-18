@@ -9,7 +9,7 @@
   "21235020": {
     "id": "21235020",
     "name": "The Emperor's Mantle",
-    "desc": "Turn Start: Gain Shield equal to (Green Roaches × 100)\nOn Kill: Gain 10 DefenseBug\nTurn Start: Gain 4~10 DefenseBug",
+    "desc": "Turn Start: Gain Shield equal to (Green Roaches × 100)\nOn Kill: Gain 10 Green Roaches (Enhancing)\nTurn Start: Gain 4~10 Green Roaches (Enhancing)",
     "summary": "",
     "flavor": "The Legion of (Green) Roaches moves for no one but its Emperor."
   },
@@ -30,14 +30,14 @@
   "21235050": {
     "id": "21235050",
     "name": "Emperor's Legion",
-    "desc": "On Win Clash Inflict 3 OffenseBug\nOn Hit Inflict 1 OffenseBug\nOn Critical Hit Inflict 2 OffenseBug",
+    "desc": "On Win Clash Inflict 3 Green Roaches (Enraged)\nOn Hit Inflict 1 Green Roaches (Enraged)\nOn Critical Hit Inflict 2 Green Roaches (Enraged)",
     "summary": "",
     "flavor": "Rip, seep, trickle, carve, tear, devour."
   },
   "21235060": {
     "id": "21235060",
     "name": "Roach's Feast",
-    "desc": "Round Start: Gain DefenseBug equal to current OffenseBug count; lose 50% OffenseBug",
+    "desc": "Round Start: Gain Green Roaches (Enhancing) equal to current Green Roaches (Enraged) count; lose 50% Green Roaches (Enraged)",
     "summary": "",
     "flavor": "Intrude, infest, devour."
   },
