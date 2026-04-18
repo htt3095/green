@@ -18,7 +18,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 6,
+          "defaultValue": 5,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -155,7 +155,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 5,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
@@ -183,7 +183,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 5,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
@@ -229,7 +229,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 8,
+          "defaultValue": 4,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -468,7 +468,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 14,
+          "defaultValue": 12,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -564,7 +564,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 6,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "133903ExtortAllPositiveBuffOnSucceedAttackIfUsableInDuel",
@@ -891,7 +891,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 5,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
@@ -919,7 +919,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 5,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
@@ -947,7 +947,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 5,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
@@ -1034,7 +1034,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 4,
+          "defaultValue": 2,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1130,7 +1130,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 4,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1148,7 +1148,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 4,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1166,7 +1166,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 4,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1184,7 +1184,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 4,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1220,7 +1220,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 12,
+          "defaultValue": 8,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [
@@ -1234,7 +1234,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1250,7 +1250,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1338,7 +1338,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1426,7 +1426,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "VibrationExplosionOnSucceedAttack"
@@ -1455,7 +1455,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 16,
+          "defaultValue": 10,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1625,7 +1625,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 16,
+          "defaultValue": 10,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1878,7 +1878,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 12,
+          "defaultValue": 8,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
