@@ -13,7 +13,7 @@
       "requireIDList": [
         "Modular/TIMING:EnemyKill/buff(Self,GreenRoaches,10,0,0)",
         "Modular/TIMING:RoundStart/VALUE_1:random(4,10)/buff(Self,GreenRoaches,VALUE_1,0,0)",
-        "Modular/TIMING:RoundStart/VALUE_0:getbuff(Self,GreenRoaches,mVALUE_0*2)/shield(Self,VALUE_0,temp)"
+        "Modular/TIMING:RoundStart/shield(Self,20,temp)"
       ]
     },
     {

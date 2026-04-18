@@ -10,7 +10,7 @@
       "list": [
         {
           "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-          "value": 10,
+          "value": 20,
           "buffData": {
             "buffKeyword": "Breath",
             "target": "Self",

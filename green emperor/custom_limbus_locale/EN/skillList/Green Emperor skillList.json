@@ -291,7 +291,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Use Gain 6 Poise Potency (lasts 2 turns)",
+        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Use Gain 3 Poise Potency (lasts 2 turns)",
         "name": "Don't forget to go for the heart.",
         "flavor": "",
         "rawDesc": "",
@@ -300,7 +300,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Critical Hit Deal 200 bonus damage",
+                "desc": "ExtractCoin\nOn Critical Hit Deal 50 bonus damage",
                 "summary": ""
               }
             ]
@@ -308,7 +308,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Critical Hit Deal 200 bonus damage",
+                "desc": "ExtractCoin\nOn Critical Hit Deal 50 bonus damage",
                 "summary": ""
               }
             ]
@@ -316,7 +316,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Critical Hit Deal 200 bonus damage",
+                "desc": "ExtractCoin\nOn Critical Hit Deal 50 bonus damage",
                 "summary": ""
               }
             ]
@@ -324,7 +324,7 @@
           {
             "coindescs": [
               {
-                "desc": "ExtractCoin\nOn Critical Hit Deal 200 bonus damage",
+                "desc": "ExtractCoin\nOn Critical Hit Deal 50 bonus damage",
                 "summary": ""
               }
             ]
