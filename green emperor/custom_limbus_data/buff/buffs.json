@@ -168,7 +168,18 @@
           "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
           "value": 6,
           "buffData": {
-            "buffKeyword": "AttackDmgUp",
+            "buffKeyword": "ResultEnhancement",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
+          "value": 6,
+          "buffData": {
+            "buffKeyword": "ParryingResultUp",
             "target": "Self",
             "stack": 1,
             "turn": 0,

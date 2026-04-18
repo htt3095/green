@@ -19,7 +19,7 @@
     "a": 0,
     "id": "SukunaPlotArmor",
     "name": "Binding Vow (Green Emperor)",
-    "desc": "Gain 1 Restriction per 2 Binding Vows; gain 1 Final Damage Up at maximum Binding Vows (6). (Max 6)",
+    "desc": "Gain 1 Restriction per 2 Binding Vows; at maximum Binding Vows (6), gain 1 Final Power and 1 Clash Power. (Max 6)",
     "summary": "",
     "flavor": "why did I add this?"
   },
