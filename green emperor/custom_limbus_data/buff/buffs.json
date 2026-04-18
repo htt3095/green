@@ -21,17 +21,6 @@
         },
         {
           "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-          "value": 30,
-          "buffData": {
-            "buffKeyword": "PlusCoinValueUp",
-            "target": "Self",
-            "stack": 1,
-            "turn": 0,
-            "activeRound": 0
-          }
-        },
-        {
-          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
           "value": 25,
           "buffData": {
             "buffKeyword": "Agility",
@@ -177,20 +166,9 @@
         },
         {
           "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-          "value": 2,
+          "value": 6,
           "buffData": {
             "buffKeyword": "AttackDmgUp",
-            "target": "Self",
-            "stack": 1,
-            "turn": 0,
-            "activeRound": 0
-          }
-        },
-        {
-          "ability": "GiveBuffOnRoundStartByBuffStackDevideByValue",
-          "value": 3,
-          "buffData": {
-            "buffKeyword": "ChoSuperCharge",
             "target": "Self",
             "stack": 1,
             "turn": 0,

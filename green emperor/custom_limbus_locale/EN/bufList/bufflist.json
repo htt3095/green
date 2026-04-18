@@ -3,7 +3,7 @@
     "a": 0,
     "id": "GreenRoaches",
     "name": "Green Roaches (Enhancing)",
-    "desc": "Each Round Start, grant the Emperor buffs based on stack count:\n1 Poise Potency (1 turn) per 10 stacks; 1 Coin Power Up per 30 stacks; 1 Haste per 25 stacks; 1 Protection per 40 stacks; 1 Defense Level Up per 30 stacks; 1 Attack Level Up per 30 stacks; 1 Binding Vow per 60 stacks. (Max 120)",
+    "desc": "Each Round Start, grant the Emperor buffs based on stack count:\n1 Poise Potency (1 turn) per 10 stacks; 1 Haste per 25 stacks; 1 Protection per 40 stacks; 1 Defense Level Up per 30 stacks; 1 Attack Level Up per 30 stacks; 1 Binding Vow per 60 stacks. (Max 120)",
     "summary": "",
     "flavor": "Loyal to the Green Emperor"
   },
@@ -19,7 +19,7 @@
     "a": 0,
     "id": "SukunaPlotArmor",
     "name": "Binding Vow (Green Emperor)",
-    "desc": "Gain 1 Restriction and 1 Damage Up every 2 Binding Vows; gain 1 Near-light Superbattery every 3 Binding Vows (Max 6)",
+    "desc": "Gain 1 Restriction per 2 Binding Vows; gain 1 Final Damage Up at maximum Binding Vows (6). (Max 6)",
     "summary": "",
     "flavor": "why did I add this?"
   },
