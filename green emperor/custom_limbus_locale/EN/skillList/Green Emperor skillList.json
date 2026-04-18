@@ -191,7 +191,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Potency of every special [Tremor] type — no Count (expires this turn; converts to whichever single type survives teammate interactions)",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Flash every special [Tremor] type — no Count (expires this turn).\nStrong types (Collapse/Continue/Echo/Ignition/Assimilation): 3 Potency. Other types (Chain/Spring/Distribution/Crack/combustionVulnerable): 4 Potency.",
                 "summary": ""
               }
             ]
@@ -199,7 +199,7 @@
           {
             "coindescs": [
               {
-                "desc": "[ExtractCoin]\n[OnSucceedAttack] Inflict 1 Potency of every special [Tremor] type — no Count (expires this turn; converts to whichever single type survives teammate interactions)",
+                "desc": "[ExtractCoin]\n[OnSucceedAttack] Flash every special [Tremor] type — no Count (expires this turn).\nStrong types (Collapse/Continue/Echo/Ignition/Assimilation): 3 Potency. Other types (Chain/Spring/Distribution/Crack/combustionVulnerable): 4 Potency.",
                 "summary": ""
               }
             ]
