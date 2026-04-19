@@ -18,7 +18,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 400,
+          "defaultValue": 4,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -229,7 +229,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 600,
+          "defaultValue": 4,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -443,6 +443,16 @@
                     "turn": 0,
                     "activeRound": 0
                   }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "SukunaPlotArmor",
+                    "target": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
                 }
               ]
             }
@@ -468,7 +478,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1200,
+          "defaultValue": 12,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -564,7 +574,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "133903ExtortAllPositiveBuffOnSucceedAttackIfUsableInDuel",
@@ -672,7 +682,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 600,
+          "defaultValue": 5,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -770,8 +780,8 @@
                 "buffKeyword": "Charge",
                 "target": "Self",
                 "buffOwner": "",
-                "stack": 0,
-                "turn": 6,
+                "stack": 6,
+                "turn": 0,
                 "activeRound": 0,
                 "value": 0.0,
                 "limit": 0
@@ -891,7 +901,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 5,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
@@ -919,7 +929,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 5,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
@@ -947,7 +957,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 3,
-              "scale": 5,
+              "scale": 3,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveRandomDebuffSinStackAndTurn",
@@ -1034,7 +1044,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 500,
+          "defaultValue": 2,
           "skillLevelCorrection": 500,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1220,7 +1230,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1000,
+          "defaultValue": 8,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [
@@ -1234,7 +1244,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1250,7 +1260,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1338,7 +1348,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1426,7 +1436,7 @@
               "operatorType": "ADD",
               "color": "GREEN",
               "grade": 4,
-              "scale": 5,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "VibrationExplosionOnSucceedAttack"
@@ -1455,7 +1465,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1400,
+          "defaultValue": 10,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1564,13 +1574,44 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "value": 0.0,
+                  "turnLimit": 0,
                   "buffData": {
                     "buffKeyword": "AttackDown",
                     "target": "Target",
+                    "buffOwner": "",
                     "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 0,
+                    "value": 0.0,
+                    "limit": 0
+                  },
+                  "conditionalData": {
+                    "category": "",
+                    "value": "",
+                    "conditionBuffData": {
+                      "buffKeyword": "",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 0,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.0,
+                      "limit": 0
+                    },
+                    "type": "",
+                    "resultValue": "",
+                    "resultBuffData": {
+                      "buffKeyword": "",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 0,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.0,
+                      "limit": 0
+                    }
                   }
                 }
               ]
@@ -1592,13 +1633,44 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "value": 0.0,
+                  "turnLimit": 0,
                   "buffData": {
                     "buffKeyword": "AttackDown",
                     "target": "Target",
+                    "buffOwner": "",
                     "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 0,
+                    "value": 0.0,
+                    "limit": 0
+                  },
+                  "conditionalData": {
+                    "category": "",
+                    "value": "",
+                    "conditionBuffData": {
+                      "buffKeyword": "",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 0,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.0,
+                      "limit": 0
+                    },
+                    "type": "",
+                    "resultValue": "",
+                    "resultBuffData": {
+                      "buffKeyword": "",
+                      "target": "",
+                      "buffOwner": "",
+                      "stack": 0,
+                      "turn": 0,
+                      "activeRound": 0,
+                      "value": 0.0,
+                      "limit": 0
+                    }
                   }
                 }
               ]
@@ -1625,7 +1697,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1400,
+          "defaultValue": 10,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1878,7 +1950,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 1000,
+          "defaultValue": 8,
           "skillLevelCorrection": 505,
           "mpUsage": -5,
           "abilityScriptList": [
@@ -1891,8 +1963,8 @@
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
-                "stack": 6,
-                "turn": 2,
+                "stack": 5,
+                "turn": 3,
                 "activeRound": 0
               }
             }
@@ -1905,7 +1977,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(Target,-50)"
                 }
               ]
             },
@@ -1916,7 +1988,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(Target,-50)"
                 }
               ]
             },
@@ -1927,7 +1999,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(Target,-50)"
                 }
               ]
             },
@@ -1938,7 +2010,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(EveryTarget,-1%)"
+                  "scriptName": "Modular/TIMING:OnSucceedAttack(None,Crit)/healhp(Target,-50)"
                 }
               ]
             }
@@ -1964,7 +2036,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 700,
+          "defaultValue": 7,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [],
@@ -1998,7 +2070,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 600,
+          "defaultValue": 6,
           "skillLevelCorrection": 500,
           "mpUsage": 0,
           "abilityScriptList": [],
@@ -2032,7 +2104,7 @@
           "arearange": 4,
           "viewType": "BATTLE",
           "targetNum": 1,
-          "defaultValue": 900,
+          "defaultValue": 9,
           "skillLevelCorrection": 500,
           "mpUsage": -10,
           "abilityScriptList": [
