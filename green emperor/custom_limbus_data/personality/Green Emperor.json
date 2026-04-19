@@ -36,18 +36,18 @@
         "defaultStat": 320,
         "incrementByLevel": 0
       },
-      "defCorrection": 290,
+      "defCorrection": 5,
       "minSpeedList": [
-        85,
-        85,
-        85,
-        85
+        5,
+        5,
+        5,
+        5
       ],
       "maxSpeedList": [
-        115,
-        115,
-        115,
-        115
+        10,
+        10,
+        10,
+        10
       ],
       "uniqueAttribute": "SHAMROCK",
       "mentalConditionInfo": {
