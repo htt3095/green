@@ -36,7 +36,7 @@
         "defaultStat": 320,
         "incrementByLevel": 0
       },
-      "defCorrection": 100,
+      "defCorrection": 5,
       "minSpeedList": [
         5,
         5,
