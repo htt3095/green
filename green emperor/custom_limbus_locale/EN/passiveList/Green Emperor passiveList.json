@@ -9,7 +9,7 @@
   "21235020": {
     "id": "21235020",
     "name": "The Emperor's Mantle",
-    "desc": "Turn Start: Gain Shield equal to (Green Roaches × 2)\nOn Kill: Gain 10 Green Roaches (Enhancing)\nTurn Start: Gain 4~10 Green Roaches (Enhancing)",
+    "desc": "Turn Start: Gain 40 Shield\nOn Kill: Gain 10 Green Roaches (Enhancing)\nTurn Start: Gain 4~10 Green Roaches (Enhancing)",
     "summary": "",
     "flavor": "The Legion of (Green) Roaches moves for no one but its Emperor."
   },

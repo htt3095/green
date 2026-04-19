@@ -1963,8 +1963,8 @@
               "buffData": {
                 "buffKeyword": "Breath",
                 "target": "Self",
-                "stack": 3,
-                "turn": 2,
+                "stack": 5,
+                "turn": 3,
                 "activeRound": 0
               }
             }

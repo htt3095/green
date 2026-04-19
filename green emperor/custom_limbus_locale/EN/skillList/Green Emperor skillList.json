@@ -291,7 +291,7 @@
     "levelList": [
       {
         "level": 3,
-        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Use Gain 3 Poise Potency (lasts 2 turns)",
+        "desc": "On Use At 0+ SP: Gain 2 Mang (望)\nOn Use Gain 5 Poise Potency (lasts 3 turns)",
         "name": "Don't forget to go for the heart.",
         "flavor": "",
         "rawDesc": "",
